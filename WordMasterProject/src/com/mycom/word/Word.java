@@ -6,6 +6,7 @@ public class Word {
 	private String word;
 	private String meaning;
 	
+	Word(){}
 	Word(int id, int level, String word, String meaning){
 		this.id = id;
 		this.level = level;
