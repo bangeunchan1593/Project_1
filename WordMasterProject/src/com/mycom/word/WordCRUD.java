@@ -42,11 +42,7 @@ public class WordCRUD implements ICRUD{
 		return 0;
 	}
 
-	@Override
-	public int selectOne(int id) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+
 
 	public void listAll() {
 		System.out.println("------------------------------");
