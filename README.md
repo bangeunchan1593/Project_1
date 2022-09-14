@@ -10,3 +10,5 @@ Result Screenshot
 ![screenshot4](https://user-images.githubusercontent.com/112672282/188872853-63f5af4a-f266-4b7c-95b1-efce3c8f35ba.png)
 
 ![screenshot5](https://user-images.githubusercontent.com/112672282/188872858-0842df38-075d-4adf-b1bb-1078af0ffa80.png)
+
+Result Screenshot(update/delete/loadfile/savefile/end/fileresult)
