@@ -168,4 +168,9 @@ public class WordCRUD implements ICRUD{
 		int level = s.nextInt();
 		listAll(level);
 	}
+
+	public void searchWord() {
+		// TODO Auto-generated method stub
+		
+	}
 }
