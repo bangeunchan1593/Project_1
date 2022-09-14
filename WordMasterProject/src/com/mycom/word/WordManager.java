@@ -46,6 +46,9 @@ public class WordManager {
 			else if(menu == 6) { //delete
 				wordCRUD.deleteItem();
 			}
+			else if(menu == 7) { //delete
+				wordCRUD.saveFile();
+			}
 		}
 	}
 }

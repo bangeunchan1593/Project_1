@@ -128,10 +128,14 @@ public class WordCRUD implements ICRUD{
 			}
 			br.close();
 			System.out.println("==> " + count + "개 로딩 완료!!!");
-			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+
+	public void saveFile() {
+		// TODO Auto-generated method stub
+		
 	}
 }
